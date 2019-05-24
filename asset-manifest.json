@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fb-chat-extension/static/css/main.2557d500.chunk.css",
+    "main.js": "/fb-chat-extension/static/js/main.c1f2ae03.chunk.js",
+    "main.js.map": "/fb-chat-extension/static/js/main.c1f2ae03.chunk.js.map",
+    "runtime~main.js": "/fb-chat-extension/static/js/runtime~main.c394d1ae.js",
+    "runtime~main.js.map": "/fb-chat-extension/static/js/runtime~main.c394d1ae.js.map",
+    "static/js/2.0f2f8d79.chunk.js": "/fb-chat-extension/static/js/2.0f2f8d79.chunk.js",
+    "static/js/2.0f2f8d79.chunk.js.map": "/fb-chat-extension/static/js/2.0f2f8d79.chunk.js.map",
+    "index.html": "/fb-chat-extension/index.html",
+    "precache-manifest.5ada2877016bf25eee2f1b8b258add07.js": "/fb-chat-extension/precache-manifest.5ada2877016bf25eee2f1b8b258add07.js",
+    "service-worker.js": "/fb-chat-extension/service-worker.js",
+    "static/css/main.2557d500.chunk.css.map": "/fb-chat-extension/static/css/main.2557d500.chunk.css.map"
+  }
+}
